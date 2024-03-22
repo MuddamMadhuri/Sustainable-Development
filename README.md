@@ -1,2 +1,2 @@
 # Sustainable-Development
-It is a webpage over sustainable Development
+It is a website over sustainable Development
